@@ -1,3 +1,11 @@
+# Fork oficial de Sendero IA
+
+**Distribuido por [Jefferson Prada](https://senderoiapro.com)** | [Guia en Sendero IA](https://senderoiapro.com/es/guias)
+
+Fork del proyecto original de [@ComposioHQ](https://github.com/ComposioHQ) mantenido para la comunidad latina. Instrucciones en espanol disponibles en senderoiapro.com.
+
+---
+
 <h1 align="center">Awesome Claude Skills</h1>
 
 <p align="center">
@@ -475,3 +483,7 @@ Individual skills may have different licenses - please check each skill's folder
 **Note**: Claude Skills work across Claude.ai, Claude Code, and the Claude API. Once you create a skill, it's portable across all platforms, making your workflows consistent everywhere you use Claude.
 
 - [AgentsKB](https://agentskb.com) - Upgrade your AI with researched answers. We did the research so your AI gets it right the first time.
+
+---
+
+Distributed by [Sendero IA](https://senderoiapro.com) | Original project by [@ComposioHQ](https://github.com/ComposioHQ)
